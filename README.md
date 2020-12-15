@@ -1,3 +1,3 @@
-# Check out my portfolio site!
+# Check out my website!
 
-[Website](https://jasminellok.github.io/)
+[Live Site](https://jasminellok.github.io/)
