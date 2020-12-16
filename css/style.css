@@ -499,6 +499,7 @@ body.loaded #preloader{
 .about-inner{
     display: flex;
     flex-wrap: wrap;
+    align-items: baseline;
     align-content: center;
     justify-content: center;
 }
@@ -506,7 +507,6 @@ body.loaded #preloader{
 .aboutmeimg{
     display: flex;
     flex-wrap: wrap;
-    align-items: baseline;
     align-content: center;
     justify-content: center;
 }
@@ -1118,7 +1118,7 @@ ul.portfolio li.active {
         margin-left: 20%;
 	}
     .call-to-action h2 {
-        font-size: 18px;
+        font-size: 22px;
         line-height: 35px;
 	}
     .contact-us-detail {
